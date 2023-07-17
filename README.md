@@ -1,9 +1,3 @@
-The URL for the tutorial video is:
-https://www.youtube.com/watch?v=pUNSHPyVryU
-
-The URL to the GitHub gist that contains the updated API key is:
-https://gist.github.com/adrianhajdin/e41751d170881f32955f556aaa45c77c
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
